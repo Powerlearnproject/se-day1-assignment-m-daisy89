@@ -32,16 +32,28 @@ requiring each phase to be completed before moving on to the next.
 Agile os ideal for projects with uncertain requirements while waterfall is suitable for projects with well defined requirements.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Software developer-Design,code ,test and maintain software applications.
+Quality Assurance Engineer-Focuses on ensuring the quality of the software through systematic testing.
+Project Manager-Oversees the entire software development process .
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs streamline the software development process by consolidating various tools into a single interface enhancing productivity and efficiency with benefits including code management ,standardizations and Rapid development.
+VCS-They are crucial for managing changes to source code overtime and its importance include collaboration,change tracking,back up and recovery.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Unclear software requirements
+Lack of communication and collaboration
+Changing requirements
+Time constraints
+Security concerns
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Unit testing-Involves testing individual components or functions of the software installations to ensure they work as intended.
+It helps identify bugs early in the development process making it easier and less costly to fix them.
+Itegration Testing-Focuses on the interaction between different modules or components of the applicationsto ensure they work together seamlessly.
+It detects interface defects and issues that may arrise when combining units.
+System Testing-Evaluates the complete and intergrated software system to verify that it meets the specific requirements.
+Acceptance testing-Perfomed to determine whether the software meets the acceptance criteria and is ready for deploymment'
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -50,4 +62,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 It ia a process of structuring text for generative AI models.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt:Tell me about climate change.
+Improved Prompt:Provide a detailed explanation of the causes and effects of climate change including specific examples of its impact on weather 
+patterns ,ecosystems,and human health over the last decade.
 
